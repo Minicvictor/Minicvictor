@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Minicvictor
 - 👀 I’m interested in computer programming and tech
-- 🌱 I’m currently learning front end developing
+- 🌱 I’m currently learning cloud computing/Devops
 - 💞️ I’m looking to collaborate on many tech companies
 - 📫 How to reach me vickilance50@gmail.com
 
